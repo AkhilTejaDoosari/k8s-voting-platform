@@ -1,0 +1,4 @@
+manifests/secrets/*.yaml
+*.env
+kubeconfig
+.DS_Store
